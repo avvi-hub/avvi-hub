@@ -1,16 +1,13 @@
-## Hi there 👋
+### 👋 Hey, I'm [Your Name]!
+🔹 Aspiring AI/ML Engineer | Data Science Enthusiast  
+🔹 Learning GenAI, Machine Learning, and Python 🚀  
+🔹 Passionate about building AI-powered projects  
 
-<!--
-**avvi-hub/avvi-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 **What I'm Learning:**  
+- Machine Learning & GenAI  
+- Data Science & Python  
+- Kaggle & GitHub Collaboration  
 
-Here are some ideas to get you started:
+🚀 **Let’s Connect!**  
+🔗 [LinkedIn](https://www.linkedin.com/in/awanti-wananje-b65512351) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
